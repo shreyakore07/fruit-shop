@@ -1,4 +1,4 @@
-# This is our fruit shop
+# This is our Fruit Shop
 
 ![alt text](image.png)
 
